@@ -1,0 +1,1 @@
+I developed Motion Detection software with OpenCV, incorporating real-time face detection. It quickly outlines individuals entering the camera's view, making it ideal for security. The versatile program seamlessly integrates with different cameras, providing a simple and effective solution for various applications.
